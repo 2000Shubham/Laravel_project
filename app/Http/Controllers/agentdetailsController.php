@@ -743,6 +743,13 @@ class agentdetailsController extends Controller
 
     public function getUserList(Request $request)
     {
-        echo "testing...";exit;
+        echo "testing...";
+        exit;
+    }
+
+    public function getAgentList(Request $request)
+    {
+        echo "testing...";
+        exit;
     }
 }
