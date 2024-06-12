@@ -741,9 +741,5 @@ class agentdetailsController extends Controller
     // }
 
 
-    public function git()
-    {
-        echo "testing...";
-        exit;
-    }
+   
 }
