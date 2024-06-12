@@ -741,5 +741,8 @@ class agentdetailsController extends Controller
     // }
 
 
-   
+    public function getUserList(Request $request)
+    {
+        echo "testing...";exit;
+    }
 }
