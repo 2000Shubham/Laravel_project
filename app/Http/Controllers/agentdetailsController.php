@@ -741,7 +741,7 @@ class agentdetailsController extends Controller
     // }
 
 
-    public function getUserList(Request $request)
+    public function Shubham(Request $request)
     {
         echo "testing...";
         exit;
