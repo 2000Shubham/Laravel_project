@@ -741,7 +741,7 @@ class agentdetailsController extends Controller
     // }
 
 
-    public function Shubham(Request $request)
+    public function Ajay(Request $request)
     {
         echo "testing...";
         exit;
