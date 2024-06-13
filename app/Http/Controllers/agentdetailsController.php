@@ -741,11 +741,6 @@ class agentdetailsController extends Controller
     // }
 
 
-    public function Ajay(Request $request)
-    {
-        echo "testing...";
-        exit;
-    }
 
     public function getAgentList(Request $request)
     {
